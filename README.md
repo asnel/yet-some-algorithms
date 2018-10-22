@@ -1,2 +1,8 @@
-# yet-some-algorithms
-Yet again some algorithms :astonished:
+# Yet again some algorithms. 
+The algorithms I write for fun :v:.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+
